@@ -1,5 +1,7 @@
 <?php
 
+/* 123 */
+
 // Загрузка WordPress
 require_once('wp-load.php');
 
